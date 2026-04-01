@@ -1,3 +1,4 @@
 secret.env
 uploads/articles/*
 uploads/profiles/*
+database.sql
